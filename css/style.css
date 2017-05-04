@@ -1,0 +1,485 @@
+
+@import url('https://fonts.googleapis.com/css?family=Tinos');
+@import url('https://fonts.googleapis.com/css?family=Fjalla+One');
+
+
+
+#heroimage {
+	margin-left:-190px;
+;
+
+}
+
+.heading {
+	margin-left:-100px;
+	margin-top:80px;
+	width:1125px;
+}
+
+#nytlogo {
+	margin-top:-36px;
+	margin-bottom:30px;
+}
+
+
+#b1 {
+	border:1px solid white;
+	margin-top:100px;
+	margin-bottom:10px;
+}
+
+#home {
+	width:20px;
+	height:20px;
+}
+
+
+#home2 {
+	font-size:11px;
+	font-family: arial;
+	margin-left:33px;
+	margin-top:-27px;
+}
+
+#search {
+	width:17px;
+	height:17px;
+	margin-left:93px;
+	margin-top:-60px;
+	margin-bottom:34px;
+}
+
+#search2 {
+	font-size:11px;
+	font-family:arial;
+	margin-left:125px;
+	margin-top:-59px;
+}
+}
+
+#subhead {
+	font-family: georgia;
+
+	font-size: 12px;
+}
+
+
+#title1 {
+	font-family: Tinos, georgia;
+	font-weight: lighter;
+
+}
+
+#fb {
+width:25px;
+height:25px;
+margin-left:885px;
+margin-top:-300px;
+margin-bottom:30px;
+
+}
+
+#twitter {
+	width:25px;
+	height:25px;
+	margin-left:927px;
+	margin-top:-300px;
+	margin-bottom:55px;
+
+}
+
+#pinterest {
+	width:31px;
+	height:31px;
+	margin-left:966px;
+	margin-top:-300px;
+	margin-bottom:77px;
+
+}
+
+#email {
+	width:28px;
+	height:28px;
+	margin-left:1008px;
+	margin-top:-300px;
+	margin-bottom:104px;
+
+}
+
+#share {
+	width:34px;
+	height:31px;
+	margin-left:1047px;
+	margin-top:-300px;
+	margin-bottom:126px;
+
+}
+
+.relatedcoverage {
+	margin-left:800px;
+	margin-top:-750px;
+	width:330px;
+}
+
+#sidetitle {
+	font-family: arial;
+	font-size:10px;
+	margin-top:-20px;
+	margin-bottom:5px;
+}
+
+#related2 {
+	margin-left:90px;
+	width:250px;
+	margin-top:-50px;
+	line-height: 14px;
+	font-size:16px;
+	font-family: Tinos;
+	
+}
+
+#related3 {
+	margin-left:270px;
+	width:210px;
+	margin-top:-27px;
+	line-height: 14px;
+	font-size:1px;
+	font-family: arial;
+	color:#999999;
+
+}
+
+
+
+
+#sidetitle2 {
+	font-family: arial;
+	font-size:11px;
+	margin-left:800px;
+	margin-top:200px;
+	width:200px;
+}
+
+#sideline {
+	width:200px;
+}
+
+#recentcomments {
+
+}
+
+#com1{
+font-family:arial;
+font:bold;
+font-size:13px;
+margin-left:800px;
+margin-top:-13px;
+
+}
+
+#com2 {
+font-family:arial;
+font-size:13px;
+width:100px;
+color:#aab0b7;
+margin-left:840px;
+margin-top:-38px;
+
+}
+
+#com3 {
+	font-family: arial;
+	font-size:12px;
+	width:300px;
+	margin-left:800px;
+	word-spacing:-1px;
+
+	margin-top:-13px;
+
+}
+
+#com4{
+font-family:arial;
+font:bold;
+font-size:13px;
+margin-left:800px;
+margin-top:-3px;
+
+}
+
+#com5 {
+font-family:arial;
+font-size:13px;
+width:130px;
+color:#aab0b7;
+margin-left:890px;
+margin-top:-40px;
+
+}
+
+#com6 {
+	font-family: arial;
+	font-size:12px;
+	width:300px;
+	margin-left:800px;
+	word-spacing:-1px;
+
+	margin-top:-13px;
+
+}
+
+#p1 {
+	margin-bottom:320px;
+	margin-top:250px;
+	
+}
+
+body {
+	width:585px;
+	margin-left:190px;
+	margin-right:20px;
+	font-size:18px;
+	font-family: Tinos, georgia;
+	font-color:#333;
+	word-spacing: 2px;
+	line-height: 24px;
+	
+}
+
+.body2 {
+	margin-top:-260px;
+
+}
+
+#nytlogo {
+	width:200px;
+	height:40px;
+	margin-left:430px;
+}
+
+
+
+.line0 {
+	width:1450px;
+	margin-left:-190px;
+	margin-top:-30px;
+	color:#999999;
+}
+
+#l0{
+
+	width:320px;
+	margin-left:790px;
+	margin-top:100px;
+	margin-bottom:-240px;
+}
+
+
+.line1 {
+	width:1440px;
+	margin-left:-190px;
+}
+
+.line2 {
+	width:1237px;
+	color:#e2e2e2;
+
+}
+
+#author {
+	font-size:11px;
+}
+
+#line3 {
+	margin-top:-120px;
+	width:1237px;
+	color:#e2e2e2;
+}
+
+#title1 {
+	width:720px;
+}
+
+#caption1 {
+	font-size:14px;
+	color:#696969;
+	margin-left:-70px;
+}
+
+#img0 {
+	margin-left:-70px;
+}
+
+#img1 {
+	margin-left:-70px;
+}
+
+#caption2 {
+	font-size: 14px;
+	color:#696969;
+	margin-left:-70px;
+	width:700px;
+	margin-top:5px;
+
+}
+
+#img2 {
+	margin-left:-70px;
+}
+
+#caption3 {
+	font-size: 14px;
+	color:#696969;
+	margin-left:-70px;
+	width:700px;
+	margin-top:5px;
+
+}
+
+#c3 {
+	margin-top:10px;
+	margin-bottom:40px;
+}
+
+#caption4 {
+	font-size: 14px;
+	color:#696969;
+	margin-left:450px;
+	width:205px;
+	margin-top:-130px;
+	line-height: 14px;
+}
+
+#p2 {
+	margin-top:107px;
+}
+
+#img5 {
+	margin-left:-70px;
+	margin-top:25px;
+}
+
+#caption5 {
+	font-size: 14px;
+	color:#696969;
+	margin-left:-70px;
+	width:700px;
+	margin-top:5px;
+	line-height: 12px;
+
+}
+
+#c5 {
+	font-size: 14px;
+	color:#696969;
+	margin-left:-70px;
+	width:700px;
+	margin-top:-7px;
+	margin-bottom:-5px;
+	line-height: 12px;
+
+}
+
+#img6 {
+	margin-left:-70px;
+	margin-top:22px;
+}
+
+#caption6 {
+	font-size: 14px;
+	color:#696969;
+	margin-left:-70px;
+	width:700px;
+	margin-top:5px;
+	line-height: 12px;
+}
+
+#c6 {
+	margin-top:44px;
+}
+
+#q1 {
+	width:100px;
+	height:100px;
+	margin-left:-50px;
+	margin-top:30px;
+	margin-bottom:-60px;
+}
+
+#q2 {
+	width:100px;
+	height:100px;
+	margin-left:500px;
+	margin-top:-110px;
+	margin-bottom:50px;
+}
+
+#q3 {
+	width:100px;
+	height:100px;
+	margin-left:-50px;
+	margin-top:30px;
+	margin-bottom:-60px;
+}
+
+#q4 {
+	width:100px;
+	height:100px;
+	margin-left:500px;
+	margin-top:-110px;
+	margin-bottom:50px;
+}
+
+#comments {
+	border:1px solid white ;
+	width:100px;
+	font-family:Arial;
+	font-size:16px;
+	background-color: #879cb4;
+	color: #ffffff;
+	padding:3px;
+	border-radius:10px; 
+	text-align:center;
+	margin-left:650px;
+	margin-top:30px;
+	margin-bottom:-100px;
+}
+
+#r2 {
+	padding:30px; 
+	font-family:arial;
+	font-size:11px;
+	width:100px;
+}
+
+#r3 {
+	margin-left:130px;
+	margin-top:-170px;
+}
+
+#r4 {
+	font-size:11px;
+	margin-left:250px;
+	margin-top:-40px;
+	color:#696969;
+}
+
+#r5 {
+	margin-left:540px;
+	margin-top:-80px;
+	margin-bottom:100px;
+	width:70px;
+	height:70px;
+}
+/* MEDIA QUERY */
+
+
+@media screen (max-width: 900px;)
+
+
+
+
+
+
+
+
